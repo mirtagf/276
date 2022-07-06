@@ -1,3 +1,5 @@
 # 276
 Descripción
 CAMBIO REMOTO
+
+CAMBIO LOCAL
